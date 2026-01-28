@@ -1,4 +1,5 @@
-# Otel Yönetim Sistemi (C++)
+# Otel Yönetim Sistemi (C++) Created in 2023
+
 
 Bu proje, C++ dili kullanılarak geliştirilmiş **ilk nesne yönelimli (OOP) projelerden biri** olarak hazırlanmıştır.  
 Amaç; sınıf (class), nesne (object), kapsülleme (encapsulation) ve dosya işlemleri gibi temel C++ kavramlarını
