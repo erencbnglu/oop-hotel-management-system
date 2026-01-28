@@ -8,3 +8,5 @@ int main() {
     hotelim.Sayfa();
     return 0;
 }
+
+// repo cleanup

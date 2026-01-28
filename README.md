@@ -15,3 +15,5 @@ Odalar, müşteriler ve işlemler sınıflar üzerinden yönetilir; bilgiler `.d
 - Menü tabanlı konsol uygulaması
 - Modüler kod yapısı (header + source dosyaları)
 
+
+// repo cleanup

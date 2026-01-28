@@ -12,4 +12,4 @@ hotel_app
 # Xcode
 *.xcodeproj
 *.xcworkspace
-DerivedData/
+DerivedData/ 
