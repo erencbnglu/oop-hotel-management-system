@@ -1,0 +1,15 @@
+*.o
+*.out
+*.exe
+hotel_app
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+DerivedData/
